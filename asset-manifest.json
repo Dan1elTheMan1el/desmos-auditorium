@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desmos-auditorium/static/css/main.58abc8a2.css",
-    "main.js": "/desmos-auditorium/static/js/main.c57a8127.js",
+    "main.js": "/desmos-auditorium/static/js/main.a3138eab.js",
     "static/js/453.480f806d.chunk.js": "/desmos-auditorium/static/js/453.480f806d.chunk.js",
     "static/media/jbym0zz4zs.png": "/desmos-auditorium/static/media/jbym0zz4zs.b40f2b163ce66e18d461.png",
     "static/media/vx4e3clete.png": "/desmos-auditorium/static/media/vx4e3clete.c3257e601eb9559153ea.png",
@@ -18,11 +18,11 @@
     "static/media/8stxrurso8.png": "/desmos-auditorium/static/media/8stxrurso8.7530b570c9b4d5ad1b01.png",
     "index.html": "/desmos-auditorium/index.html",
     "main.58abc8a2.css.map": "/desmos-auditorium/static/css/main.58abc8a2.css.map",
-    "main.c57a8127.js.map": "/desmos-auditorium/static/js/main.c57a8127.js.map",
+    "main.a3138eab.js.map": "/desmos-auditorium/static/js/main.a3138eab.js.map",
     "453.480f806d.chunk.js.map": "/desmos-auditorium/static/js/453.480f806d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58abc8a2.css",
-    "static/js/main.c57a8127.js"
+    "static/js/main.a3138eab.js"
   ]
 }
