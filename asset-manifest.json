@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desmos-auditorium/static/css/main.58abc8a2.css",
-    "main.js": "/desmos-auditorium/static/js/main.a3138eab.js",
+    "main.js": "/desmos-auditorium/static/js/main.4800665d.js",
     "static/js/453.480f806d.chunk.js": "/desmos-auditorium/static/js/453.480f806d.chunk.js",
     "static/media/jbym0zz4zs.png": "/desmos-auditorium/static/media/jbym0zz4zs.b40f2b163ce66e18d461.png",
     "static/media/vx4e3clete.png": "/desmos-auditorium/static/media/vx4e3clete.c3257e601eb9559153ea.png",
@@ -9,7 +9,7 @@
     "static/media/blofyypsef.png": "/desmos-auditorium/static/media/blofyypsef.5de1b5412a9c43fdb1a9.png",
     "static/media/jd5dekpqfv.png": "/desmos-auditorium/static/media/jd5dekpqfv.0e9eab2a7f65f1846c2c.png",
     "static/media/8ownioqzsv.png": "/desmos-auditorium/static/media/8ownioqzsv.7401dcf630955f756548.png",
-    "static/media/frwjawusnj.png": "/desmos-auditorium/static/media/frwjawusnj.143c1d53cd0b2259ebcc.png",
+    "static/media/6entsxzpob.png": "/desmos-auditorium/static/media/6entsxzpob.143c1d53cd0b2259ebcc.png",
     "static/media/1nmbsn4sbv.png": "/desmos-auditorium/static/media/1nmbsn4sbv.c183b909232c0cbd339a.png",
     "static/media/hkdlromeh8.png": "/desmos-auditorium/static/media/hkdlromeh8.e75ef9c8a1f160e40a4d.png",
     "static/media/ssbugcheoe.png": "/desmos-auditorium/static/media/ssbugcheoe.210d864c24bb33bcd220.png",
@@ -18,11 +18,11 @@
     "static/media/8stxrurso8.png": "/desmos-auditorium/static/media/8stxrurso8.7530b570c9b4d5ad1b01.png",
     "index.html": "/desmos-auditorium/index.html",
     "main.58abc8a2.css.map": "/desmos-auditorium/static/css/main.58abc8a2.css.map",
-    "main.a3138eab.js.map": "/desmos-auditorium/static/js/main.a3138eab.js.map",
+    "main.4800665d.js.map": "/desmos-auditorium/static/js/main.4800665d.js.map",
     "453.480f806d.chunk.js.map": "/desmos-auditorium/static/js/453.480f806d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58abc8a2.css",
-    "static/js/main.a3138eab.js"
+    "static/js/main.4800665d.js"
   ]
 }
