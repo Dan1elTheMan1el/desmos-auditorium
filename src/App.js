@@ -34,7 +34,7 @@ function App() {
     },
     {
       title: 'Handwritten Digit Guesser (Not Self-Trained)',
-      hash: 'frwjawusnj',
+      hash: '6entsxzpob',
       embed: true
     },
     {
